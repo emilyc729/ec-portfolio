@@ -14,8 +14,8 @@ function App() {
       </header>
       <Switch>
         <Route exact path="/ec-portfolio" component={About} />
-        <Route exact path="/projects" component={Projects} />
-        <Route exact path="/contact" component={Contact} />
+        <Route exact path="/ec-portfolio/projects" component={Projects} />
+        <Route exact path="/ec-portfolio/contact" component={Contact} />
       </Switch>
     </div>
   );
