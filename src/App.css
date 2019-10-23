@@ -15,4 +15,9 @@ section {
 
 .buttons {
     margin: 5px;
+    margin-top: 0;
+}
+
+.about-me .card-body {
+    padding-bottom: 0;
 }

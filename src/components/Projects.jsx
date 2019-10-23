@@ -15,6 +15,8 @@ function Projects() {
                                 <p className="card-text">
                                     In this 2-player classic board game, players are each given a side of 6 slots and 1 pot. Each player takes turns picking up marbles from a slot and placing one marble in each slot/pot counter clockwise. The player with most marbles win!
                                 </p>
+                                <a href="https://github.com/emilyc729/mancala" target="_blank" rel="noopener noreferrer" className="btn btn-outline-primary buttons"> <i className="fab fa-github-alt"></i> GitHub </a>
+                                <a href="https://emilyc729.github.io/mancala/" target="_blank" rel="noopener noreferrer" className="btn btn-outline-primary buttons">Live Project</a>
                             </div>
                             <div className="card-footer">
                                 <small className="text-muted">Project Completed: Aug. 9, 2019</small>
@@ -60,6 +62,9 @@ function Projects() {
                                 <p className="card-text">
                                     FoodieGram is a MEAN App! It is a web application for people who like to share their foodie experiences and explore delicious restaurants in their areas. With OAuth, only logged-in users may create, update, delete, and comment on food posts. All other users may view food posts.
                                 </p>
+                                <a href="https://github.com/emilyc729/foodie-gram" target="_blank" rel="noopener noreferrer" className="btn btn-outline-primary buttons"> <i className="fab fa-github-alt"></i> GitHub </a>
+                                <a href="https://ec-foodiegram.herokuapp.com/" target="_blank" rel="noopener noreferrer" className="btn btn-outline-primary buttons">Live Project</a>
+
                             </div>
                             <div className="card-footer">
                                 <small className="text-muted">Project Completed: Aug. 30, 2019</small>
@@ -97,6 +102,9 @@ function Projects() {
                             <div className="card-body">
                                 <h5 className="card-title">Briefcase</h5>
                                 <p className="card-text">Briefcase is a platform for users to create a portfolio of projects and share it to others. The projects are viewable by all users of the app. The user is the only one who can edit and delete their projects. It is a great app to use for job interviews or simply networking your accomplishments.</p>
+                                <a href="https://github.com/emilyc729/mybriefcase/" target="_blank" rel="noopener noreferrer" className="btn btn-outline-primary buttons"> <i className="fab fa-github-alt"></i> GitHub </a>
+                                <a href="http://ess-mybriefcase.herokuapp.com/" target="_blank" rel="noopener noreferrer" className="btn btn-outline-primary buttons">Live Project</a>
+
                             </div>
                             <div className="card-footer">
                                 <small className="text-muted">Project Completed: Sept. 20, 2019</small>
@@ -136,6 +144,9 @@ function Projects() {
                             <div className="card-body">
                                 <h5 className="card-title">Taste-It</h5>
                                 <p className="card-text">Taste-It is a React, fullstack app which allows customers/users to view restaurant menus and order food online from restaurants that have added their menus at the Tasty Website/App! Users who sign up may make food purchases from different restaurants at a time, while non-account users may only view.</p>
+                                <a href="https://github.com/emilyc729/taste-it" target="_blank" rel="noopener noreferrer" className="btn btn-outline-primary buttons"> <i className="fab fa-github-alt"></i> GitHub </a>
+                                <a href="https://ec-tasteit.herokuapp.com/" target="_blank" rel="noopener noreferrer" className="btn btn-outline-primary buttons">Live Project</a>
+
                             </div>
                             <div className="card-footer">
                                 <small className="text-muted">Project Completed: Oct. 4, 2019</small>
