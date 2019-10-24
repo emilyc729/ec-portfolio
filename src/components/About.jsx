@@ -15,8 +15,8 @@ function About() {
                                 <h1 className="card-title">Emily Cheung</h1>
                                 <h5>Full Stack Developer | Web Developer | Software Engineer</h5>
                                 <p className="card-text">
-                                    Emily is an attentive, reliable developer who is capable of creating responsive full stack applications. With a background in computer science and experience working in a client-faced environment, Emily values the importance of user experience design and functionality when implementing web applications. She is always interested in exploring and using new technologies, and finding ways to improve and fix bugs in products. She emphasizes the importance of time management and efficiency in work. She is a calm, precise, and diligent team player.
-                            </p>
+                                Emily is an attentive, reliable developer who is capable of creating responsive full stack applications.  With a background in computer science and prior experience working in a client-faced environment, Emily values the importance of user experience design and core functionality when implementing web applications. It is her passion to explore and use new technologies, and also find ways to improve/fix bugs in products. She emphasizes the importance of time management and efficiency in work. She is a calm, precise, and diligent team player.
+                                </p>
                                 <a href="mailto:emilyc72994@gmail.com" className="btn btn-outline-primary buttons"> <i className="far fa-envelope"></i> Email</a>
                                 <a href="https://github.com/emilyc729/" target="_blank" rel="noopener noreferrer" className="btn btn-outline-primary buttons"> <i className="fab fa-github-alt"></i> GitHub </a>
                                 <a href="https://www.linkedin.com/in/emilycheung-729/" target="_blank" rel="noopener noreferrer" className="btn btn-outline-primary buttons"> <i className="fab fa-linkedin-in"></i> LinkedIn </a>
