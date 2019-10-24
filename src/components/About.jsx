@@ -19,8 +19,8 @@ function About() {
                             </p>
                                 <a href="mailto:emilyc72994@gmail.com" className="btn btn-outline-primary buttons"> <i className="far fa-envelope"></i> Email</a>
                                 <a href="https://github.com/emilyc729/" target="_blank" rel="noopener noreferrer" className="btn btn-outline-primary buttons"> <i className="fab fa-github-alt"></i> GitHub </a>
-                                <a href="https://www.linkedin.com/in/emilycheung-729/" rel="noopener noreferrer" className="btn btn-outline-primary buttons"> <i className="fab fa-linkedin-in"></i> LinkedIn </a>
-                                <a href={Resume} rel="noopener noreferrer" className="btn btn-outline-primary buttons"><i className="far fa-file-pdf"></i> Resume </a>
+                                <a href="https://www.linkedin.com/in/emilycheung-729/" target="_blank" rel="noopener noreferrer" className="btn btn-outline-primary buttons"> <i className="fab fa-linkedin-in"></i> LinkedIn </a>
+                                <a href={Resume} target="_blank" rel="noopener noreferrer" className="btn btn-outline-primary buttons"><i className="far fa-file-pdf"></i> Resume </a>
                             </div>
                         </div>
 
