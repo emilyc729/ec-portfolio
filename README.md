@@ -1,6 +1,8 @@
 ## Portfolio
 [My Portfolio](https://emilyc729.github.io/ec-portfolio/)
 
+![Portfolio](https://i.imgur.com/p3bNFEK.png)
+
 ## Technologies used:
 1. HTML5
 2. CSS3
