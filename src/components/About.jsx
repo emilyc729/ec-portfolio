@@ -76,7 +76,7 @@ function About() {
                             <div className="card-body d-flex justify-content-around">
                                 <ul>
                                     <li className="card-text">OOP</li>
-                                    <li className="card-text">MVC PAttern</li>
+                                    <li className="card-text">MVC Pattern</li>
                                     <li className="card-text">Responsive Design</li>
                                     <li className="card-text">User Stories</li>
                                 </ul>
@@ -90,7 +90,53 @@ function About() {
                             </div>
                         </div>
                     </div>
-
+                    <div className="col-md-4">
+                        <div className="card mb-3" >
+                            <div className="card-header ">Management & Deployment</div>
+                            <div className="card-body d-flex justify-content-around">
+                                <ul>
+                                    <li className="card-text">Git</li>
+                                    <li className="card-text">Github</li>
+                                    <li className="card-text">npm</li>
+                                </ul>
+                                <ul>
+                                    <li className="card-text">CLI</li>
+                                    <li className="card-text">Homebrew</li>
+                                    <li className="card-text">Heroku</li>
+                                </ul>
+                               
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-md-4">
+                        <div className="card mb-3" >
+                            <div className="card-header ">Operations & Communcations</div>
+                            <div className="card-body d-flex justify-content-around">
+                                <ul>
+                                    <li className="card-text">Google Suite</li>
+                                    <li className="card-text">Microsoft Office</li>
+                                    <li className="card-text">Slack</li>
+                                </ul>
+                                <ul>
+                                    <li className="card-text">Zoom</li>
+                                    <li className="card-text">Trello</li>
+                                    <li className="card-text">Postman</li>
+                                </ul> 
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-md-4">
+                        <div className="card mb-3" >
+                            <div className="card-header ">Spoken Languages</div>
+                            <div className="card-body d-flex justify-content-around">
+                                <ul>
+                                    <li className="card-text">English (Fluent)</li>
+                                    <li className="card-text">Cantonese (Fluent)</li>
+                                    <li className="card-text">Mandarin (Conversational)</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
