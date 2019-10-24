@@ -2,7 +2,7 @@ import React from 'react';
 
 function Projects() {
     return (
-        <section className="container">
+        <section className="container projects">
             <div>
                 <h1 className="text-center mb-4">Projects</h1>
                 <div className="row">
@@ -60,7 +60,7 @@ function Projects() {
                             <div className="card-body">
                                 <h5 className="card-title">FoodieGram</h5>
                                 <p className="card-text">
-                                    FoodieGram is a MEAN App! It is a web application for people who like to share their foodie experiences and explore delicious restaurants in their areas. With OAuth, only logged-in users may create, update, delete, and comment on food posts. All other users may view food posts.
+                                    FoodieGram is a MEAN App! It is a web application for people who like to share their foodie experiences and explore delicious restaurants in their areas. With OAuth, only logged-in users may create, update, delete, and comment on food posts.
                                 </p>
                                 <a href="https://github.com/emilyc729/foodie-gram" target="_blank" rel="noopener noreferrer" className="btn btn-outline-primary buttons"> <i className="fab fa-github-alt"></i> GitHub </a>
                                 <a href="https://ec-foodiegram.herokuapp.com/" target="_blank" rel="noopener noreferrer" className="btn btn-outline-primary buttons">Live Project</a>

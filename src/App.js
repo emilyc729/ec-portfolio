@@ -4,7 +4,7 @@ import {Route, Switch} from 'react-router-dom';
 import NavBar from './components/Navbar';
 import About from './components/About';
 import Projects from './components/Projects';
-import Contact from './components/Contact';
+
 
 function App() {
   return (
@@ -16,7 +16,6 @@ function App() {
         <Route exact path="/" component={About} />
         <Route exact path="/ec-portfolio" component={About} />
         <Route exact path="/ec-portfolio/projects" component={Projects} />
-        <Route exact path="/ec-portfolio/contact" component={Contact} />
         <Route render={() => 
           <section className="container">
             <h1>Error 404: Page Not Found</h1>

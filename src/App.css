@@ -3,14 +3,18 @@ section {
     justify-content: center;
     align-items: center;
     padding-top: 75px;
+    
 }
 
 .about-me {
-    height: 50%;
+    padding-top: 75px;
+    
 }
 
 .navbar {
     box-shadow: 0 2px 4px -1px rgba(0,0,0,0.25);
+    background-color: #D3EEFF;
+    border-radius: 8px;
 }
 
 .buttons {
@@ -20,3 +24,20 @@ section {
 .about-me .card-body {
     padding-bottom: 0;
 }
+
+
+
+ul {
+    padding: 0;
+}
+
+.techs .card-header, .projects .card-footer {
+    background-color: #D3EEFF;
+}
+
+.techs .card, .projects .card, .about-me .card {
+    border-color: #D3EEFF;
+    border-width: 1.5px;
+}
+
+
