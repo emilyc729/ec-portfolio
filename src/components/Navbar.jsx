@@ -10,8 +10,8 @@ function NavBar() {
             </button>
 
             <div className="collapse navbar-collapse" id="my-navbar">
-                <ul className="navbar-nav ml-auto ">
-                    <li className="nav-item ">
+                <ul className="navbar-nav ml-auto">
+                    <li className="nav-item">
                         <Link to="/ec-portfolio" className="nav-link">About</Link>
                     </li>
                     <li className="nav-item">
